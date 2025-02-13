@@ -1,0 +1,31 @@
+/* <style type="text/css"> */
+      
+      #header {
+        background-color:aquamarine;
+      }
+      #muheet{
+        background-color: aquamarine;
+      }
+
+      .light-line {
+        width: 80px;
+        border: 2px solid #ffffff;
+        margin: auto;
+        opacity: 1;
+      }
+      .dark-line {
+        width: 80px;
+        border: 2px solid #000000;
+        margin: auto;
+        opacity: 1;
+      }
+      #AHS a{
+        border: 1 px solid;
+        border-Radius:5px;
+        color: #000000;
+        padding:5px 10px;
+      }
+      #footer {
+        width: 100%;
+      }
+      /* <style type="text/css">background color red</style> */
